@@ -1,0 +1,12 @@
+# VISHC-PPD segmentation benchmark — Python >= 3.10
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+opencv-python-headless>=4.8
+Pillow>=9.0
+shapely>=2.0            # polygon validation / repair during rasterisation
+albumentations>=2.0     # augmentation (Affine / GaussNoise API of the 2.x series)
+transformers>=4.40      # SegFormer-B2 (MiT-B2 encoder)
+timm>=1.0               # Swin-Tiny encoder (Swin-UNet) and DINOv2 ViT-B/14 encoder
+tqdm>=4.65
+pytest>=7.0             # tests only

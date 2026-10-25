@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "Users of this code or of the VISHC-PPD dataset are asked to cite the paper below."
+title: "VISHC-PPD-segmentation-models"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Le
+    given-names: Son M. T.
+    affiliation: "College of Engineering & Computer Science, VinUniversity; VinUni-Illinois Smart Health Center"
+  - family-names: Than
+    given-names: My T.
+    affiliation: "Orthopaedics and Sports Medicine Center, Vinmec Healthcare System"
+  - family-names: Ho
+    given-names: Minh
+    affiliation: "Orthopaedics and Sports Medicine Center, Vinmec Healthcare System"
+  - family-names: Tran
+    given-names: Tien
+    affiliation: "Orthopaedics and Sports Medicine Center, Vinmec Healthcare System"
+  - family-names: Vuillerme
+    given-names: Nicolas
+    affiliation: "AGEIS, Université Grenoble Alpes, Grenoble, France; Institut Universitaire de France, Paris, France"
+  - family-names: Pham
+    given-names: Hieu H.
+    affiliation: "College of Engineering & Computer Science, VinUniversity; VinUni-Illinois Smart Health Center"
+preferred-citation:
+  type: article
+  title: "A Vietnamese child and adult plantar pressure image dataset with eight-region annotations for foot pathology"
+  authors:
+    - family-names: Le
+      given-names: Son M. T.
+    - family-names: Than
+      given-names: My T.
+    - family-names: Ho
+      given-names: Minh
+    - family-names: Tran
+      given-names: Tien
+    - family-names: Vuillerme
+      given-names: Nicolas
+    - family-names: Pham
+      given-names: Hieu H.
+  journal: "Scientific Data (in preparation)"
+  year: 2026
